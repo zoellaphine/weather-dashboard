@@ -5,7 +5,7 @@
 This application is a very simple dashboard that can display the weather for any general city. 
 The project was created to gain experience connecting an API into a codebase and navigating the results of those calls.
 
-Navigating the API data ended up being very tricky for me. Because it's many nested arrays and I wasn't fully sure of the syntax for finding specific items within the arrays I had to spend a long time researching how to get to individual pieces of the array. I also ran into a lot of walls with CSS in general, making the site not look quite the way I had hoped.
+Navigating the API data ended up being very tricky for me. Because it's many nested arrays and I wasn't fully sure of the syntax for finding specific items within the arrays I had to spend a long time researching how to get to individual pieces of the array. The GitHub pages link was and still is causing me a lot of problems. I'm unsure what the HTTPS errors mean, which persist even after adjusting my URLs for the api calls.
 
 ## Usage
 
