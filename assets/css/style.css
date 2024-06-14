@@ -1,0 +1,104 @@
+.container {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: gray;
+    padding: 10px;
+    margin: 10px
+}
+
+.content {
+    display: flex;
+}
+
+.title {
+    background-color: lightpink;
+    font-size: 36px;
+    text-align: center;
+    padding: 20px;
+    color: gray;
+    font-weight: bold;
+}
+
+.search {
+    display: block;
+}
+
+.searchBar {
+    width: 92%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.searchButton {
+    background-color: lightpink;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.searchButton:hover {
+    background-color: palevioletred;
+}
+
+.spacer {
+    height: 2px;
+    background-color: gray;
+    margin: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.preset {
+    background-color: lightgray;
+    display: block;
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+}
+
+.preset:hover {
+    background-color: gray;
+}
+
+button {
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.week {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+
+.today {
+    margin: 70px;
+    display: none;
+    background-color: lightpink;
+    border-radius: 10px;
+    padding: 10px;
+    width: 20%;
+    color: gray;
+}
+
+.day {
+    display: none;
+    background-color: lightpink;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    color: gray;
+}
+
+.forecast {
+    font-size: 24px;
+    font-weight: bold;
+    color: gray;
+    margin-left: 50px;
+}
