@@ -1,7 +1,7 @@
 // API key and url
 const apiKey = 'd96876d02cf45f7fa9bfb328eb5b12f2';
-const forecastApiUrl = 'http://api.openweathermap.org/data/2.5/forecast?';
-const geoApiUrl = 'http://api.openweathermap.org/geo/1.0/direct?q=';
+const forecastApiUrl = 'https://api.openweathermap.org/data/2.5/forecast?';
+const geoApiUrl = 'https://api.openweathermap.org/geo/1.0/direct?q=';
 
 const searchBar = document.querySelector('.searchBar');
 const forecastDays = document.querySelectorAll('.week');
